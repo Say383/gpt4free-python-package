@@ -18,7 +18,7 @@ requirements = [
     "names",
     "colorama",
     "curl_cffi",
-    "streamlit==1.21.0",
+    "streamlit==1.30.0",
     "selenium",
     "fake-useragent",
     "twocaptcha",
